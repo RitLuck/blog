@@ -1,0 +1,57 @@
+baseURL: ""
+languageCode: en-us
+title: cd ~
+theme: PaperMod
+
+params:
+  env: production
+  title: Girish Luckhun
+  keywords: [Blog]
+  author: Girish Luckhun
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  ShowShareButtons: false
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  profileMode:
+    enabled: true
+    title: Girish Luckhun
+    subtitle: Technophile | Linux Enthusiast | Introvert | and other nerd stuff
+    imageUrl: img/profile.jpg
+    imageWidth: 160
+    imageHeight: 160
+    imageTitle: Girish Luckhun
+    buttons:
+      - name: Latest Posts
+        url: post
+      - name: Tags
+        url: tags
+  socialIcons:
+    # - name: github
+    #   url: https://github.com/patrickeasters
+    - name: twitter
+      url: https://twitter.com/thatguyrit
+    - name: linkedin
+      url: https://www.linkedin.com/in/girish-luckhun-7a19bb184/
+    - name: email
+      url: mailto:r.luckhun@yahoo.com
+
+menu:
+  main:
+  - identifier: Whoami
+    name: ~/whoami
+    url: /whoami/
+    weight: 20
+  - identifier: tags
+    name: ~/Tags
+    url: /tags/
+    weight: 30
+  - identifier: archives
+    name: ~/Archives
+    url: /archives/
+    weight: 30
+  - identifier: search
+    name: ~/Search
+    url: /search/
+    weight: 30
