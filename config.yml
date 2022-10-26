@@ -8,7 +8,7 @@ params:
   title: Girish Luckhun
   keywords: [Blog]
   author: Girish Luckhun
-  DateFormat: "January 2, 2006"
+  DateFormat: "October 2, 2022"
   defaultTheme: auto
   ShowShareButtons: false
   ShowBreadCrumbs: true
@@ -36,6 +36,10 @@ params:
       url: https://www.linkedin.com/in/girish-luckhun-7a19bb184/
     - name: email
       url: mailto:r.luckhun@yahoo.com
+
+  logo:
+    logoText: hello friend
+    logoHomeLink: /
 
 menu:
   main:
