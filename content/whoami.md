@@ -1,6 +1,6 @@
 ---
 title: "whoami"
-nocomments: true
+nocomments: false
 hidemeta: true
 disableShare: true
 ---
