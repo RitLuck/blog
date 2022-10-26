@@ -40,7 +40,7 @@ params:
 menu:
   main:
   - identifier: Whoami
-    name: ~/whoami
+    name: whoami
     url: /whoami/
     weight: 20
   - identifier: tags
