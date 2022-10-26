@@ -31,15 +31,12 @@ params:
     # - name: github
     #   url: https://github.com/patrickeasters
     - name: twitter
-      url: https://twitter.com/thatguyrit
+      url: https://twitter.com/sudo_gluck
     - name: linkedin
       url: https://www.linkedin.com/in/girish-luckhun-7a19bb184/
     - name: email
       url: mailto:r.luckhun@yahoo.com
 
-  logo:
-    logoText: hello friend
-    logoHomeLink: /
 
 menu:
   main:
