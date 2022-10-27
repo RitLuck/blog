@@ -34,6 +34,8 @@ params:
       url: https://twitter.com/sudo_gluck
     - name: linkedin
       url: https://www.linkedin.com/in/girish-luckhun-7a19bb184/
+    - name: github
+      url: https://github.com/RitLuck
     - name: email
       url: mailto:r.luckhun@yahoo.com
 
