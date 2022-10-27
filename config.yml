@@ -24,7 +24,7 @@ params:
     imageTitle: Girish Luckhun
     buttons:
       - name: Latest Posts
-        url: post
+        url: posts
       - name: Tags
         url: tags
   socialIcons:
@@ -48,9 +48,9 @@ menu:
     name: ~/Tags
     url: /tags/
     weight: 30
-  - identifier: archives
-    name: ~/Archives
-    url: /archives/
+  - identifier: posts
+    name: ~/Posts
+    url: /posts/
     weight: 30
   - identifier: search
     name: ~/Search
