@@ -47,15 +47,15 @@ menu:
     url: /whoami/
     weight: 20
   - identifier: tags
-    name: ~/Tags
+    name: ~/tags
     url: /tags/
     weight: 30
   - identifier: posts
-    name: ~/Posts
+    name: ~/posts
     url: /posts/
     weight: 30
   - identifier: search
-    name: ~/Search
+    name: ~/search
     url: /search/
     weight: 30
 
