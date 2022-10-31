@@ -42,7 +42,7 @@ params:
 
 menu:
   main:
-  - identifier: Whoami
+  - identifier: whoami
     name: whoami
     url: /whoami/
     weight: 20
