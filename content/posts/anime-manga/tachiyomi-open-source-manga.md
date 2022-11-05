@@ -29,4 +29,4 @@ What I mean by this is that Tachiyomi uses a lot of websites for searching and r
 
 You can download manga as long you have disk space on your phone. I can say that this is completely true because I always have about 5-10 GB downloaded manga to read for when I’m offline.
 
-![](tachiyomi.jpg)
+![](RitLuck/blog/content/posts/anime-manga/tachiyomi.jpg)
