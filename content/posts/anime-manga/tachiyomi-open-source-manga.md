@@ -9,5 +9,6 @@ tags: ["anime","managa"]
 
 I’m sure a lot of manga readers had a hard time searching for a different manga reader. That is why I’m going to introduce you an open-source manga application named Tachiyomi. Here's is a couple of reasons why i use Tachiyomi:
 
-- [Completely free]
+- Completely free
+
 Tachiyomi is completely free to use and without any ads. That means you can have a great reading experience without any ads interrupting
