@@ -23,5 +23,6 @@ We ended the night or should i say the morning at 4hr am where the transport was
 
 Conclusion: My first time going to a nightclub, I realized that letting go of expectations and not worrying about what others think is important not only in adapting to a new environment quickly but in enjoying what you’re doing. I wouldn’t have had such a fun time at the club if I was caught up in being worried about what others thought about me. Literally, every single person at the club is there to have a fun time. Ignore those demons in your head. No one goes to a club looking for a critical, terrible time. Everyone is in a party mood so even if you decide to go by yourself, as long as you are smiling and staying positive, you shouldn’t have any problems blending in. Only thing i regret is not getting drunk enough and like my friend said :
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">should get drunk first before entering the club</p>&mdash; Zain.Edogawa (@EdogawaZain) <a href="https://twitter.com/EdogawaZain/status/1589457945620025346?ref_src=twsrc%5Etfw">November 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[should get drunk first before entering the club](https://twitter.com/EdogawaZain/status/1589457945620025346?ref_src=twsrc%5Etfw)
+
 
