@@ -4,7 +4,7 @@ date: "2022-11-07"
 author: "Girish Luckhun"
 draft: false   
 showFullContent: false
-tags: ["NightClub"]                                            
+tags: ["NightClub", "Life"]                                            
 ---
 
 An introvert… clubbing. Something about that sentence almost seems paradoxical.
