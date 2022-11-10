@@ -2,7 +2,7 @@
 title: "Why I use Linux"
 date: "2022-11-01"
 author: "Girish Luckhun"
-draft: true   
+draft: false   
 showFullContent: false
 tags: ["Linux"]                                            
 ---
