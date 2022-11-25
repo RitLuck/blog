@@ -21,6 +21,9 @@ So, devcon over the course of 3 days, housing over 70+ sessions were able to wel
 ![image1](./images/2.png){:width=”50%” height=”auto”}
 ![image1](./images/3.png){:width=”50%” height=”auto”}
 
+<pre>&#123;&#123;< image-resize 3 "150x150" >&#125;&#125;</pre>
+{{< image-resize 3 "150x150" >}}
+
 Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and great guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
 At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my friends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, how we should choose our career. I can stay and listen to him talking for hours and still not get bored.
 
