@@ -3,7 +3,7 @@ title: "Developers Conference 2022"
 date: "2025-11-25"
 author: "Girish Luckhun"
 draft: true   
-showFullContent: false
+showFullContent: true
 tags: ["Devcon","2022"]                                            
 ---
 
