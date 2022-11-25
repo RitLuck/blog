@@ -5,7 +5,9 @@ author: "Girish Luckhun"
 draft: false   
 showFullContent: false
 tags: ["Devcon","2022"]  
-image: "images/t.jpg" 
+image: "images/t.png" 
+images:
+ - "images/t.png"
 ---
 
 Mauritius Developers Conference 2022
