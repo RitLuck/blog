@@ -5,9 +5,9 @@ author: "Girish Luckhun"
 draft: false   
 showFullContent: false
 tags: ["Devcon","2022"]  
-image: "img/t.png" 
+image: "img/t.jpg" 
 images:
- - "img/t.png"
+ - "img/t.jpg"
 ---
 
 Mauritius Developers Conference 2022
@@ -16,7 +16,7 @@ This week, more than 900 tech enthusiast descended on the city of Port Louis at 
 
 Before we start talking about devcon, lets take a moment to appreciate the venue first. It was my first time being there for an event, and damn its beautiful. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found. I can say I think it is absolutely remarkable. 
 
-![image](img/t.png) 
+![image](img/t.jpg) 
 
 
 
