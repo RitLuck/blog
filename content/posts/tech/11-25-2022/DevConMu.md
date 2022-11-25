@@ -7,7 +7,7 @@ showFullContent: false
 tags: ["Devcon","2022"]  
 # cover:
 #     image: img/t.jpg
-#image: "img/t.jpg"
+image: "img/t.jpg"
 ---
 
 Mauritius Developers Conference 2022
@@ -36,7 +36,7 @@ At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitt
 First Speaker was 
 
 
-![preview](RitLuck/blog/static/img/t.jpg) 
+![preview](./static/img/t.jpg) 
 
 
 
