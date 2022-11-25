@@ -17,9 +17,7 @@ Before we start talking about devcon, let's take a moment to appreciate the venu
 
 So, devcon over the course of 3 days, housing over 70+ sessions were able to welcome nearly 1000 attendees. The conference was free of charge for everyone. All that needed to be done was to go to their [website](https://conference.mscc.mu/agenda) and register. One of the reason I like going to these conferences, is for the GOODIES. This year we got a super cool t-shirt, stickers, card holder and a super cute duck. Oh did I mentioned that we also got free Wi-fi offered by Rogers Capital.
 
-![image1](./images/1.1.png){:width=”50%” height=”auto”}
-![image1](./images/2.png){:width=”50%” height=”auto”}
-![image1](./images/3.png){:width=”50%” height=”auto”}
+![image1](./images/1.1.png) ![image1](./images/2.2.png) ![image1](./images/3.3.png)
 
 
 Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and great guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
