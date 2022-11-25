@@ -36,7 +36,7 @@ At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitt
 First Speaker was 
 
 
-![preview](./static/img/t.jpg) 
+![preview](./images/t.jpg) 
 
 
 
