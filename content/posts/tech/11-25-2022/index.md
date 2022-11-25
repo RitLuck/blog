@@ -26,7 +26,7 @@ Sadly, I missed the second day because of work but eventually made it to the fin
 
 Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joke, blue people= the smurfs 😆 . Will now be calling HR people, the smurfs xD. Finaly the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter. 
 
-![image1](./images/1.png) 
+![image1](./images/2.png) 
 
 
 The second talk was "AUTHENTICATING OPEN SOURCE CLOUD APPLICATIONS WITH LDAP" by [Ish Sookun](https://twitter.com/IshSookun). Another fasinating session where i got to expand my knowledge. He is also somone I can keep listening wihout getting bored. 
