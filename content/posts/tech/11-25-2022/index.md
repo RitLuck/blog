@@ -30,13 +30,15 @@ Quick summary, Red people are the Techinical people for example: Developers, Tes
 
 
 The second talk was "AUTHENTICATING OPEN SOURCE CLOUD APPLICATIONS WITH LDAP" by [Ish Sookun](https://twitter.com/IshSookun). Another fasinating session where i got to expand my knowledge. He is also somone I can keep listening wihout getting bored. 
-Last session I attended was "ENCRYPTION IN AWS" by SOODESHNA BAPPOO. Again another chance where I got to level up my AWS skills.
+Last session I attended was "ENCRYPTION IN AWS" by Soodeshna Bappoo. Again another chance where I got to level up my AWS skills.
 ![image3](./images/3.png)
 ![image4](./images/4.png)
 
-I took a little break and went to get a Spicy Grand Chicken Meal at Mcdonal's ALONE. Got a free Cup since i took a large meal.
+I took a little break and went got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
 
 At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). It was really entertainment.
+
+![image4](./images/5.png)
 
 First Speaker was 
 
