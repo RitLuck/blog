@@ -9,7 +9,7 @@ tags: ["Devcon","2022"]
 
 Mauritius Developers Conference 2022
 
-Last week, more than 3,000 blockchain engineers, thinkers and investors descended on the city of Prague for the 4th Annual Ethereum Developers Conference.
+This week, more than 900 tech enthusiast descended on the city of Port Louis for the 7th Developers Conference. In case you do not know what is the Developers Conference. Here is a beautful article written by [Ish Sookun](https://twitter.com/IshSookun) on L'express [DEVCON](https://lexpress.mu/node/415580)
 
 After two years of waiting, DEVCON is finally here. 
 
