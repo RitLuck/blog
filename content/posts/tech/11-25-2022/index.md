@@ -12,49 +12,63 @@ Mauritius Developers Conference 2022
 
 This week, more than 900 tech enthusiasts descended on the city of Port Louis at [Caudan Arts Centre](https://caudanartscentre.com/) for the 7th Developers Conference. In case you are wondering what the Developers Conference is. Here is an article written by [Ish Sookun](https://twitter.com/IshSookun) on L'express [DEVCON](https://lexpress.mu/node/415580). 
 
-Before we start talking about devcon, let's take a moment to appreciate the venue first. It was my first time being there for an event, and damn its beautiful. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found on twitter. I can say I think it is absolutely remarkable. 
+Before we start talking about devcon, let's take a moment to appreciate the venue first. It was my first time being there for an event, and damn its magnificent. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found on twitter. I can say I think it is absolutely remarkable. 
 
-
-So, devcon over the course of 3 days, housing over 70+ sessions were able to welcome nearly 1000 attendees. The conference was free of charge for everyone. All that needed to be done was to go to their [website](https://conference.mscc.mu/agenda) and register. One of the reason I like going to these conferences, is for the GOODIES. This year we got a super cool t-shirt, stickers, card holder and a super cute duck. Oh did I mentioned that we also got free Wi-fi offered by Rogers Capital.
+So, devcon over the course of 3 days, housing over 70+ sessions were able to welcome nearly 1000 attendees. The conference was free of charge for everyone. All that needed to be done was go on their [website](https://conference.mscc.mu/agenda) and register. One of the reason I like going to these conferences, is for the GOODIES. This year we got stickers, card holder, a super cute duck and a super cool t-shirt(Only the Grey one), as for the black t-shirt I paid for it, in case you're curious why I did that, well that was a [tweet](https://twitter.com/elonmusk/status/1587911540770222081) from the Elon Musk.  Oh did I mentioned that we also got free Wi-fi offered by Rogers Capital.
 
 ![image1](./images/1.png)
 
-Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and great guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
-At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my friends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, how we should choose our career. I can stay and listen to him talking for hours and still not get bored.
+Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
+At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, how we should choose our career. I can literally stay and listen to him talking for hours and still not get tired.
 
 Sadly, I missed the second day because of work but eventually made it to the final day. The third day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
 
-Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joke, blue people= the smurfs 😆 . Will now be calling HR people, the smurfs xD. Finaly the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter. 
+Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joked, blue people=the smurfs 😆 . Will now be calling HR people, the smurfs  😂 . Finaly the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter since Elon Musk took over as the CEO. 
 
 ![image2](./images/2.png) 
 
 
-The second talk was "AUTHENTICATING OPEN SOURCE CLOUD APPLICATIONS WITH LDAP" by [Ish Sookun](https://twitter.com/IshSookun). Another fasinating session where i got to expand my knowledge. He is also somone I can keep listening wihout getting bored. 
+The second talk was "AUTHENTICATING OPEN SOURCE CLOUD APPLICATIONS WITH LDAP" by [Ish Sookun](https://twitter.com/IshSookun). Another fasinating session where i got to expand my knowledge. He is also someone I can keep listening without getting bored. 
 Last session I attended was "ENCRYPTION IN AWS" by Soodeshna Bappoo. Again another chance where I got to level up my AWS skills.
 ![image3](./images/3.png)
 ![image4](./images/4.png)
 
 I took a little break and went got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
 
-At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). It was really entertaining .
+At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). It was really entertaining.
 
 ![image5](./images/5.png)
 
 First Speaker was [Ish Sookun](https://twitter.com/IshSookun). He gave a talk about Linux Mirrors in Mauritius. He discussed about how it was made possible in the first place. You can read more about it on his blog [here](https://sysadmin-journal.com/ubuntu-mirror-in-mauritius/).
 ![image6](./images/6.png)
 
+Followed by [Girish Mahabir](https://twitter.com/girishmahabir) who gave a small and quick talk about containers.
+![image7](./images/7.png)
+
+Then [Jeshta Bhoyedhur](https://twitter.com/jjeshta) talked about Web bundles. 
+![image8](./images/8.png)
+
+[Michael Jules](https://mgjules.dev/) gave us a quick overview on [Directus](https://directus.io/).
+![image9](./images/9.png)
+
+Okay, so now comes the fun part. [Priyeshan](https://twitter.com/BaphometPrichi) gave awe-inspiring demo on how to transform your boring pong game to another level. You can find a samll video I posted on twitter [here](https://twitter.com/sudo_gluck/status/1595741580203360258). 
+
+Does it get even better than this you ask? HECK YES, [Chittesh Sham](https://twitter.com/tesh1224) came and literally everyone was blown away with the demo that he did. He created music using [Ableton](https://linktr.ee/ableton). It all came so fast, I didn't got time to hit on the record button. Definetly going to try using it and make my own music.
+![image10](./images/10.png)
+
+Last but not least was [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). 
+![image14](./images/14.png)
 
 
+At 4pm was finally the Closing Ceremony, [Ish Sookun](https://twitter.com/IshSookun) and [Jochen Kirstätter](https://twitter.com/JKirstaetter) was the hosts. Started by thanking all the sponsers without whom it would not have been possible. Someone from Providus came on Stage and start thowing balls to the crowd. Didier Adrien from Swan gave a small speech. Gifts were then given to some winners. Forgot to mentioned, there was also a small competition on twitter; the one who shall tweet the most #DevConMu, wins a gift. Unfortunately I did not win, by I think I was among the top 10? The winner was [Arshad Pooloo](https://twitter.com/ArshadPooloo) with [77 tweets](https://twitter.com/chervinebhiwoo/status/1595740867004092416) who won a [Huawei Band 7](https://twitter.com/ArshadPooloo/status/1596011165599023104/photo/1). We also managed to get #DevconMu trend on Twitter in our Region. (Screenshot taken by [Nidhisha](https://twitter.com/venusquicksilve))
+
+![image12](./images/12.png)
 
 
-<!-- Conferences also let you do the following:
-
-Ramp up your knowledge on DevOps technologies, whether you're new to the concept or have plenty of experience.
-Network with other like-minded people.
-Take a trip somewhere fun. (though, this isn’t always needed to accomplish the first two) -->
+We also got a small tease for next year Developers Conference Theme which is......SPACE!! 
+![image13](./images/13.png)
 
 
-<!-- Maybe one day I could give a talk at RubyConf? Maybe I could try at a smaller scale at one of our local meetups to build up my skills and confidence. -->
+And that’s a wrap. It was a blast to be at Devcon this year! The event served as another reminder that there are a lot of amazing people and minds in Mauritius. As I get back home after what could only be described as a whirlwind of three days. Whether you're a student, a professional, a non-it person, devcon is a place to be to ramp up your knowledge on just different technologies. Maybe one day I could give a talk at the devcon? Maybe I could try at a smaller scale at one of our local meetups to build up my skills and confidence first. 
 
-<!-- 
-And that’s a wrap. As I fly back home after what could only be described as a whirlwind of three days, I’m feeling all of the feels. That was quite literally so much more fun than I expected it to be. -->
+
