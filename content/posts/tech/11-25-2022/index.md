@@ -53,7 +53,7 @@ Then [Jeshta Bhoyedhur](https://twitter.com/jjeshta) talked about Web bundles.
 
 Okay, so now comes the fun part. [Priyeshan](https://twitter.com/BaphometPrichi) gave awe-inspiring demo on how to transform your boring pong game to another level. You can find a samll video I posted on twitter [here](https://twitter.com/sudo_gluck/status/1595741580203360258). 
 
-Does it get even better than this you ask? HECK YES, [Chittesh Sham](https://twitter.com/tesh1224) came and literally everyone was blown away with the demo that he did. He created music using [Ableton](https://linktr.ee/ableton). It all came so fast, I didn't got time to hit on the record button. Definetly going to try using it and make my own music.
+Does it get even better than this you ask? HECK YES, [Chittesh Sham](https://twitter.com/tesh1224) came and literally everyone was blown away with the demo that he did. He created music using [Ableton](https://linktr.ee/ableton). It all came so fast, I didn't got time to hit on the record button. Definitely going to try using it and make my own music.
 ![image10](./images/10.png)
 
 Last but not least was [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). 
