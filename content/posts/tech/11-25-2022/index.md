@@ -17,12 +17,10 @@ Before we start talking about devcon, let's take a moment to appreciate the venu
 
 So, devcon over the course of 3 days, housing over 70+ sessions were able to welcome nearly 1000 attendees. The conference was free of charge for everyone. All that needed to be done was to go to their [website](https://conference.mscc.mu/agenda) and register. One of the reason I like going to these conferences, is for the GOODIES. This year we got a super cool t-shirt, stickers, card holder and a super cute duck. Oh did I mentioned that we also got free Wi-fi offered by Rogers Capital.
 
-![image1](./images/1.png){:width=”50%” height=”auto”}
+![image1](./images/1.1.png){:width=”50%” height=”auto”}
 ![image1](./images/2.png){:width=”50%” height=”auto”}
 ![image1](./images/3.png){:width=”50%” height=”auto”}
 
-<pre>&#123;&#123;< image-resize 3 "150x150" >&#125;&#125;</pre>
-{{< image-resize 3 "150x150" >}}
 
 Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and great guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
 At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my friends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, how we should choose our career. I can stay and listen to him talking for hours and still not get bored.
