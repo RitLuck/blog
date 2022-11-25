@@ -31,6 +31,8 @@ Quick summary, Red people are the Techinical people for example: Developers, Tes
 
 The second talk was "AUTHENTICATING OPEN SOURCE CLOUD APPLICATIONS WITH LDAP" by [Ish Sookun](https://twitter.com/IshSookun). Another fasinating session where i got to expand my knowledge. He is also somone I can keep listening wihout getting bored. 
 Last session I attended was "ENCRYPTION IN AWS" by SOODESHNA BAPPOO. Again another chance where I got to level up my AWS skills.
+![image3](./images/3.png)
+![image4](./images/4.png)
 
 I took a little break and went to get a Spicy Grand Chicken Meal at Mcdonal's ALONE. Got a free Cup since i took a large meal.
 
