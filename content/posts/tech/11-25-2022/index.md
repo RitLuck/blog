@@ -36,12 +36,12 @@ Last session I attended was "ENCRYPTION IN AWS" by Soodeshna Bappoo. Again anoth
 
 I took a little break and went got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
 
-At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). It was really entertainment.
+At around 2:30pm, LIGHTNING TALKS 2022 begun by [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). It was really entertaining .
 
-![image4](./images/5.png)
+![image5](./images/5.png)
 
-First Speaker was 
-
+First Speaker was [Ish Sookun](https://twitter.com/IshSookun). He gave a talk about Linux Mirrors in Mauritius. He discussed about how it was made possible in the first place. You can read more about it on his blog [here](https://sysadmin-journal.com/ubuntu-mirror-in-mauritius/).
+![image6](./images/6.png)
 
 
 
@@ -53,3 +53,8 @@ Ramp up your knowledge on DevOps technologies, whether you're new to the concept
 Network with other like-minded people.
 Take a trip somewhere fun. (though, this isn’t always needed to accomplish the first two) -->
 
+
+<!-- Maybe one day I could give a talk at RubyConf? Maybe I could try at a smaller scale at one of our local meetups to build up my skills and confidence. -->
+
+<!-- 
+And that’s a wrap. As I fly back home after what could only be described as a whirlwind of three days, I’m feeling all of the feels. That was quite literally so much more fun than I expected it to be. -->
