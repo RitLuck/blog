@@ -45,6 +45,8 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 "The Digital Journey" by Sujit Woozageer from Swan.
 ![image28](./images/28.png)
 
+#DAY 2:
+
 Sadly, I missed the second day because of work but eventually made it to the final day. But theres is some pictures from other attendees. 
 
 
@@ -71,6 +73,7 @@ https://stonewallforever.org/
 "Securing and Managing Your Own Mail Server" by [Ish Sookun](https://twitter.com/IshSookun)
 ![image31](./images/31.png) 
 
+#Day 3
 The third day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
 
 Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joked, blue people=the smurfs 😆 . Will now be calling HR people, the smurfs  😂 . Finaly the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter since Elon Musk took over as the CEO. 
