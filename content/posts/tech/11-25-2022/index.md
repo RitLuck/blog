@@ -21,7 +21,7 @@ So, devcon over the course of 3 days, housing over 70+ sessions were able to wel
 
 ![image1](./images/1.png)
 
-Picture by [](https://twitter.com/ArshadPooloo/)
+Picture by [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
 ![image26](./images/26.png)
 
 Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
