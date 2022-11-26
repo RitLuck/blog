@@ -120,7 +120,6 @@ Okay, so now comes the fun part. [Priyeshan](https://twitter.com/BaphometPrichi)
 
 Does it get even better than this you ask? HECK YES, [Chittesh Sham](https://twitter.com/tesh1224) came and literally everyone was blown away with the demo that he did. He created music using [Ableton](https://linktr.ee/ableton). It all came so fast, I didn't got time to hit on the record button. Definitely going to try using it and make my own music. Here is a quick [video](https://twitter.com/venusquicksilve/status/1595744169112264705) posted by [Nidhisha](https://twitter.com/venusquicksilve).
 ![image10](./images/10.png)
-![image24](./images/24.png)
 
 
 Last but not least was [SANDEEP RAMGOLAM](https://twitter.com/__Sun__). 
