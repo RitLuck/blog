@@ -13,7 +13,7 @@ Mauritius Developers Conference 2022
 ![image15](./images/15.png)
 
 
-This week, more than 900 tech enthusiasts descended on the city of Port Louis at [Caudan Arts Centre](https://caudanartscentre.com/) for the 7th Developers Conference. In case you are wondering what the Developers Conference is. Here is an article written by [Ish Sookun](https://twitter.com/IshSookun) on L'express [DEVCON](https://lexpress.mu/node/415580). 
+This week, more than 900 tech enthusiasts descended on the city of Port Louis at [Caudan Arts Centre](https://caudanartscentre.com/) for the 7th Developers Conference. In case you are wondering what the Developers Conference is. Here is an [article](https://lexpress.mu/node/415580) written by [Ish Sookun](https://twitter.com/IshSookun) on L'express. 
 
 Before we start talking about devcon, let's take a moment to appreciate the venue first. It was my first time being there for an event, and damn its magnificent. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found on twitter. I can say I think it is absolutely remarkable. 
 
