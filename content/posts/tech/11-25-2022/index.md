@@ -144,4 +144,8 @@ We also got a small tease for next year Developers Conference Theme which is....
 
 And that’s a wrap. It was a blast to be at Devcon this year! The event served as another reminder that there are a lot of amazing people and minds in Mauritius. As I get back home after what could only be described as a whirlwind of three days. Whether you're a student, a professional, a non-it person, devcon is a place to be to ramp up your knowledge on just different technologies. Maybe one day I could give a talk at the devcon? Maybe I could try at a smaller scale at one of our local meetups to build up my skills and confidence first. 
 
+Cheers!
+![image34](./images/34.png)
+
+
 
