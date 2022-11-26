@@ -24,8 +24,11 @@ So, devcon over the course of 3 days, housing over 70+ sessions were able to wel
 Picture by [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
 ![image26](./images/26.png)
 
-Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't. I attended "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
-At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, how we should choose our career. I can literally stay and listen to him talking for hours and still not get tired.
+Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't.
+
+"UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
+
+At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
 
 Here are some other sessions on the first day posted by [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
 
