@@ -28,8 +28,6 @@ Unfortunately I missed the opening ceremony on the first day. There were some se
 
 "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
 
-At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
-
 Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/) for allowing me to use their pictures.
 
 "Go:From Scratch to Prod" by [MUHAMMAD YUSUF ABDOOL SATAR](https://twitter.com/__fluxy__)
@@ -44,6 +42,10 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 
 "The Digital Journey" by Sujit Woozageer from Swan.
 ![image28](./images/28.png)
+
+
+At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
+
 
 #DAY 2:
 
@@ -127,7 +129,7 @@ Last but not least was [SANDEEP RAMGOLAM](https://twitter.com/__Sun__).
 ![image14](./images/14.png)
 
 
-At 4pm was finally the Closing Ceremony, [Ish Sookun](https://twitter.com/IshSookun) and [Jochen Kirstätter](https://twitter.com/JKirstaetter) was the hosts. Started by thanking all the sponsers without whom it would not have been possible.
+At 4pm was finally the Closing Ceremony, [Ish Sookun](https://twitter.com/IshSookun) and [Jochen Kirstätter](https://twitter.com/JKirstaetter) were the hosts. Started by thanking all the sponsers without whom it would not have been possible.
 ![image25](./images/25.png)
 
 Someone from Providus came on Stage and start thowing balls to the crowd. Didier Adrien from Swan gave a small speech. Gifts were then given to some winners.
