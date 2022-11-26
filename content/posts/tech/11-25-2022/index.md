@@ -30,7 +30,7 @@ Unfortunately I missed the opening ceremony on the first day. There were some se
 
 At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
 
-Here are some other sessions on the first day posted by [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
+Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/) for allowing me to use their pictures.
 
 "Go:From Scratch to Prod" by [MUHAMMAD YUSUF ABDOOL SATAR](https://twitter.com/__fluxy__)
 ![image16](./images/16.png)
@@ -45,8 +45,7 @@ Here are some other sessions on the first day posted by [Saamiyah](https://twitt
 "The Digital Journey" by Sujit Woozageer from Swan.
 ![image28](./images/28.png)
 
-Sadly, I missed the second day because of work but eventually made it to the final day. But theres is some pictures from other attendees. Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
-for allowing me to use their pictures.
+Sadly, I missed the second day because of work but eventually made it to the final day. But theres is some pictures from other attendees. 
 
 
 "Putting AI into Action in Manufacturing" by Kendall Tang and Heman Mohabeer
