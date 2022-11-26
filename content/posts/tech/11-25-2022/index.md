@@ -15,7 +15,7 @@ Mauritius Developers Conference 2022
 
 This week, more than 900 tech enthusiasts descended on the city of Port Louis at [Caudan Arts Centre](https://caudanartscentre.com/) for the 7th Developers Conference. In case you are wondering what the Developers Conference is. Here is an [article](https://lexpress.mu/node/415580) written by [Ish Sookun](https://twitter.com/IshSookun) on L'express. 
 
-Before we start talking about devcon, let's take a moment to appreciate the venue first. It was my first time being there for an event, and damn its magnificent. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found on twitter. I can say I think it is absolutely remarkable. 
+Before we start talking about devcon, let's take a moment to appreciate the venue first. It was my first time being there for an event, and damn its magnificent. Unfortunately I did not take many photos but here is [tweet thread](https://twitter.com/AfriTheatreMag/status/1484796561884340225) I found on twitter. All I can say is, it is absolutely remarkable. 
 
 So, devcon over the course of 3 days, housing over 70+ sessions were able to welcome nearly 1000 attendees. The conference was free of charge for everyone. All that needed to be done was go on their [website](https://conference.mscc.mu/agenda) and register. One of the reason I like going to these conferences, is for the GOODIES. This year we got stickers, card holder, a super cute duck and a super cool t-shirt(Only the Grey one), as for the black t-shirt, I'm just showing off  😆, in case you're curious why I did that, well that was a [tweet](https://twitter.com/elonmusk/status/1587911540770222081) from the Elon Musk.  Oh did I mentioned that we also got free Wi-fi offered by Rogers Capital.
 
@@ -28,7 +28,7 @@ Unfortunately I missed the opening ceremony on the first day. There were some se
 
 "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
 
-Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/) for allowing me to use their pictures.
+Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/) for allowing me to share their pictures.
 
 "Go:From Scratch to Prod" by [MUHAMMAD YUSUF ABDOOL SATAR](https://twitter.com/__fluxy__)
 ![image16](./images/16.png)
@@ -44,12 +44,12 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 ![image28](./images/28.png)
 
 
-At 6pm, Happy Hour started which was sponsored by 2 companies (Spoon Consulting and forgot the second one). It was really fun, met my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
+At 6pm, Happy Hour started which was sponsored by 2 companies ([Spoon Consulting](https://twitter.com/SpoonConsulting) and [Alludo](https://twitter.com/helloalludo)). It was really fun, bumped into my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
 
 
 #DAY 2:
 
-Sadly, I missed the second day because of work but eventually made it to the final day. But theres is some pictures from other attendees. 
+Sadly, I missed the second day because of work but eventually made it to the final day. But here are some pictures from [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/). 
 
 
 "Putting AI into Action in Manufacturing" by Kendall Tang and Heman Mohabeer
@@ -65,7 +65,7 @@ Sadly, I missed the second day because of work but eventually made it to the fin
 ![image30](./images/30.png)
 
 
-"Three.js" by [VIDUSH H. NAMAH](https://twitter.com/VHNamah). Really wanted to attend this one. I started learning about three.js about two years ago. Three.js is an open source Javascript library that is used to display 3D and 2D objects on the web browser. Cool right? Here is some mindblowing three.js website to can check out :
+"Three.js" by [VIDUSH H. NAMAH](https://twitter.com/VHNamah). Really wanted to attend this one. I came across three.js about two years ago. Three.js is an open source Javascript library that is used to display 3D and 2D objects on the web browser. Cool right? Here is some mindblowing three.js website you can check out :
 https://bruno-simon.com/
 https://next.junni.co.jp/
 https://www.kodeclubs.com/
@@ -78,9 +78,9 @@ https://stonewallforever.org/
 
 #Day 3
 
-The third day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
+The third day and final day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
 
-Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joked, blue people=the smurfs 😆 . Will now be calling HR people, the smurfs  😂 . Finaly the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter since Elon Musk took over as the CEO. 
+Quick summary, Red people are the Techinical people for example: Developers, Testers, System Admin, Devops engineers. The blue people are the ones that handles the business and manage part of the company: HR for example. Also someone joked, blue people=the smurfs 😆 . Will now be calling HR people, the smurfs  😂 . Finally the purple people, the heart of the company. Purple people are the people like (I'm sure you heard of them) [Elon Musk](https://twitter.com/elonmusk), [Sundar Pichai](https://twitter.com/sundarpichai), [Bill Gates](https://twitter.com/BillGates), amongst other. These person are called the purple people as not only they are good at technical stuff(Coding, etc), but they know how to handle the business as well. They understand how to manage and drive companies to sucess. While some may disagree, but I'm quite excited to know the future of Twitter since Elon Musk took over as the CEO. 
 
 ![image2](./images/2.png) 
 
@@ -92,7 +92,7 @@ Last session I attended was "ENCRYPTION IN AWS" by Soodeshna Bappoo. Again anoth
 
 ![image4](./images/4.png)
 
-I took a little break and went got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
+I took a little break and got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
 
 Some pictures from other talks taken by [Saamiyah](https://twitter.com/smearthelove)
 
