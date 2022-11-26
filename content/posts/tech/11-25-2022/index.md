@@ -92,6 +92,7 @@ Last session I attended was "ENCRYPTION IN AWS" by Soodeshna Bappoo. Again anoth
 I took a little break and went got myself a Spicy Grand Chicken Meal at Mcdonald's ALONE. 
 
 Some pictures from other talks taken by [Saamiyah](https://twitter.com/smearthelove)
+
 "Types to the rescue" by [Renghen](https://twitter.com/renghenKornel)
 ![image22](./images/22.png)
 
