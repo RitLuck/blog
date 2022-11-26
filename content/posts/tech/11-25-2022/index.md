@@ -39,7 +39,7 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 ![image17](./images/17.png)
 ![image27](./images/27.png)
 
-"Dugging Techniques For Uncertain Times" by [Saamiyah](https://twitter.com/smearthelove)
+"Debugging Techniques For Uncertain Times" by [Saamiyah](https://twitter.com/smearthelove)
 ![image18](./images/18.png)
 
 "The Digital Journey" by Sujit Woozageer from Swan.
