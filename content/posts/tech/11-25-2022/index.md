@@ -64,11 +64,12 @@ Sadly, I missed the second day because of work but eventually made it to the fin
 
 
 "Three.js" by [VIDUSH H. NAMAH](https://twitter.com/VHNamah). Really wanted to attend this one. I started learning about three.js about two years ago. Three.js is an open source Javascript library that is used to display 3D and 2D objects on the web browser. Cool right? Here is some mindblowing three.js website to can check out :
-![image21](./images/21.png)
 https://bruno-simon.com/
 https://next.junni.co.jp/
 https://www.kodeclubs.com/
 https://stonewallforever.org/
+![image21](./images/21.png)
+
 
 "Securing and Managing Your Own Mail Server" by [Ish Sookun](https://twitter.com/IshSookun)
 ![image31](./images/31.png) 
