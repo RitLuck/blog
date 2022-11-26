@@ -131,7 +131,7 @@ At 4pm was finally the Closing Ceremony, [Ish Sookun](https://twitter.com/IshSoo
 ![image25](./images/25.png)
 
 Someone from Providus came on Stage and start thowing balls to the crowd. Didier Adrien from Swan gave a small speech. Gifts were then given to some winners.
-![image25](./images/25.png)
+![image32](./images/32.png)
 
 
 
