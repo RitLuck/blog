@@ -47,8 +47,7 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 At 6pm, Happy Hour started which was sponsored by 2 companies ([Spoon Consulting](https://twitter.com/SpoonConsulting) and [Alludo](https://twitter.com/helloalludo)). It was really fun, bumped into my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
 
 
-<p style="font-size:18px;">Day 2</p> 
-
+## DAY 2:
 
 Sadly, I missed the second day because of work but eventually made it to the final day. But here are some pictures from [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/). 
 
@@ -77,7 +76,7 @@ https://stonewallforever.org/
 "Securing and Managing Your Own Mail Server" by [Ish Sookun](https://twitter.com/IshSookun)
 ![image31](./images/31.png) 
 
-#Day 3
+## Day 3
 
 The third day and final day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
 
