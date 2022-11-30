@@ -47,7 +47,8 @@ Thanks to [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https
 At 6pm, Happy Hour started which was sponsored by 2 companies ([Spoon Consulting](https://twitter.com/SpoonConsulting) and [Alludo](https://twitter.com/helloalludo)). It was really fun, bumped into my bestfriends after almost 1 year. Beer and wine were served alongside small snacks and music playing in the backgroud. Met [Nirvan Pagooah](https://twitter.com/nirvanpagooah), we had a really nice and long conversation. He explained to us about his career, about klanik. I can literally stay and listen to him talking for hours and still not get tired.
 
 
-##DAY 2:
+<p style="font-size:18px;">Day 2</p> 
+
 
 Sadly, I missed the second day because of work but eventually made it to the final day. But here are some pictures from [Saamiyah](https://twitter.com/smearthelove) and [Arshad Pooloo](https://twitter.com/ArshadPooloo/). 
 
