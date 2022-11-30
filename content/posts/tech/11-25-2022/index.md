@@ -24,6 +24,8 @@ So, devcon over the course of 3 days, housing over 70+ sessions were able to wel
 Picture by [Arshad Pooloo](https://twitter.com/ArshadPooloo/)
 ![image26](./images/26.png)
 
+## DAY 1:
+
 Unfortunately I missed the opening ceremony on the first day. There were some sessions I wanted to attend but couldn't.
 
 "UNDERSTANDING THE UNDERLYING STACK OF LINUX CONTAINERS - IN JUST 5 MINS" by [Chittesh Sham](https://twitter.com/tesh1224). Super funny and downtoearth guy. His entrance was the hightlight of the session tbh. Okay so containers, while I'm still having troubles lately to understand containers, his talk was really helpful in some ways. Definitely going to make a post in the future once I get the grasp of it.
@@ -76,7 +78,7 @@ https://stonewallforever.org/
 "Securing and Managing Your Own Mail Server" by [Ish Sookun](https://twitter.com/IshSookun)
 ![image31](./images/31.png) 
 
-## Day 3
+## Day 3:
 
 The third day and final day was awesome with plenty of super interesting sessions. Starting with "PURPLE PEOPLE AT THE HEART OF TECH COMPANIES" by [Nirvan Pagooah](https://twitter.com/nirvanpagooah). Really glad I attended this session, learned a lot about the concept of the Red, Blue and Purple People.
 
