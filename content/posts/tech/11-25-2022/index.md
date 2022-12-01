@@ -140,7 +140,7 @@ Someone from Providus came on Stage and start thowing balls to the crowd. Didier
 
 
 
-Forgot to mentioned, there was also a small competition on twitter; the one who shall tweet the most #DevConMu, wins a gift. Unfortunately I did not win, by I think I was among the top 10? The winner was [Arshad Pooloo](https://twitter.com/ArshadPooloo) with [77 tweets](https://twitter.com/chervinebhiwoo/status/1595740867004092416) who won a [Huawei Band 7](https://twitter.com/ArshadPooloo/status/1596011165599023104/photo/1). 
+Forgot to mentioned, there was also a small competition on twitter; the one who shall tweet the most [#DevConMu](https://twitter.com/search?q=%23devconmu&src=typed_query&f=top), wins a gift. Unfortunately I did not win, by I think I was among the top 10? The winner was [Arshad Pooloo](https://twitter.com/ArshadPooloo) with [77 tweets](https://twitter.com/chervinebhiwoo/status/1595740867004092416) who won a [Huawei Band 7](https://twitter.com/ArshadPooloo/status/1596011165599023104/photo/1). 
 ![image24](./images/24.png)
 
 We also managed to get #DevconMu trend on Twitter in our Region. (Screenshot taken by [Nidhisha](https://twitter.com/venusquicksilve))
