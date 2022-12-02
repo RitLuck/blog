@@ -61,3 +61,7 @@ menu:
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
+
+[[redirects]]
+  from "/posts/tech/11-25-2022/"
+  to "/posts/11-25-2022/index.md"
