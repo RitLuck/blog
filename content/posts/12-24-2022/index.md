@@ -1,10 +1,10 @@
 ---
-title: "sssst Night Club"
-date: "2022-11-07"
+title: "My experience so far"
+date: "2022-12-24"
 author: "Girish Luckhun"
 draft: false   
 showFullContent: false
-tags: ["NightClub", "Life"]                                            
+tags: ["Life", "tech"]                                            
 ---
 
 test
