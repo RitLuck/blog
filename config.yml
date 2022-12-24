@@ -1,4 +1,5 @@
-baseURL: "https://girishluckhun.com"
+#baseURL: "https://girishluckhun.com"
+baseURL: ""
 languageCode: en-us
 title: cd ~
 theme: PaperMod
