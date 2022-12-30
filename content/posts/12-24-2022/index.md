@@ -13,7 +13,7 @@ Now that 2022 is almost over, I decided to write about my experience so far in g
 # University life
 Electric with computer Science, yes it was an actual course at UOM(university of Mauritius) i took during my time at unviersity. I really didn’t enjoy my university life as much as I should have. I felt like during my entire 20s I was just trailing along, not really enjoying life, always resentful and regretful of my choices, and just wasting my time altogether. I didn’t even go on many holidays or trips anywhere. Most of my time was spent trying to rectify something that didn’t need to be. But I made some really good friends(which I hope they'll be lifelong friends). The only thing I'm really proud of acheiving is getting an A+ on my Dissertation. It would not have been possible without the help of my friend. We literally stayed sleepless nights just to complete it. My Dissertation was an Android app that can be used to detect any infringement on the road while you're driving. Feel free to contact me if you want more info, in any case here's my [research paper](https://link.springer.com/chapter/10.1007/978-3-030-90618-4_18).
 
-Here's a picture of me holding my dissertaion: 
+Here's a picture of me holding my dissertaion(yes, this is my face. ugly? i know): 
 ![image1](./images/1.png)
 
 
@@ -26,7 +26,6 @@ As I said in my previous blog, even tho I'm an introvert, I often like to listen
 Before we continue, here's some happy memories I had at Ceridian.
 
 This was during the eoy party with my two work buddies.
-
 ![image2](./images/2.png)
 
 Another selfie, with my mentors who really helped me since day 1. Since he was a huge Game of Thrones fan, I gave him a [Game of Throne Msic Box](https://www.amazon.com/Thrones-Music-Musical-Carved-Wooden/dp/B07F3KNGG8) for Christmas for really helping, teaching and mentoring me. Always grateful for all the people that helped me.
