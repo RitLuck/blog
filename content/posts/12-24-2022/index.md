@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+---
+title: "My experience so far"
+date: "2022-12-30"
+author: "Girish Luckhun"
+draft: false   
+showFullContent: false
+tags: ["Life", "tech"]                                            
+---
+=======
 ---
 title: "My experience so far"
 date: "2022-12-24"
@@ -6,6 +16,7 @@ draft: false
 showFullContent: false
 tags: ["Life", "tech"]                                            
 ---
+>>>>>>> 62928ae07680000835b92f4acd41a73a80e41ce8
 
 Now that 2022 is almost over, I decided to write about my experience so far in general. 
 
@@ -48,6 +59,7 @@ One of the best achievement in my life was to assemble a team, a huge team of 23
 ![image5](./images/5.png)
 
 to be continued..
+
 
 
 
