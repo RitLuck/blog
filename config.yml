@@ -1,4 +1,4 @@
-baseURL: "https://girishluckhun.com"
+baseURL: "127.0.0.1"
 languageCode: en-us
 title: cd ~
 theme: PaperMod
