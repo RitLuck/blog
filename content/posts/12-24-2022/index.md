@@ -48,7 +48,11 @@ One of the best achievements of my life was assembling a huge team of 23 people 
 
 ![image5](./images/5.png)
 
-to be continued..
+# Second Job
+
+My second job was at Linkbynet (which is now Accenture), which was located in Phoenix, Les hailles. I integrated a team of Junior System admin. The job was okayish but boring since we were doing the same thing every day, like checking if inventory for both Linux and Windows failed or not and checking for any failed patching tickets. Boring, but I eventually learned a lot, and I also developed a script to get all patching tickets from an API to add the data to an Excel sheet. Each sheet represented one client. The script was written in Python and was run every Monday. I also took advantage of the free Azure Certification.It really was a fun experience. I remember doing an exam at 1 a.m. on a Saturday.
+
+After nearly a year of completing all of these certifications, I became a Linux system administrator. Unfortunately, I did not get the team I wanted, but I entered a team called SSCR. The team was all about procedures. We have to follow a procedure for every job we do; it stinks, but we can't do anything else. Despite all that, I managed to learn a lot of new technologies: Ansible, Terraform, and Kubernetes (although I still have a lot to learn).
 
 
 
